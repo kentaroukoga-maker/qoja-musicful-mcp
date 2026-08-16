@@ -1,0 +1,13 @@
+{
+  "name": "qoja-musicful-mcp",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "express": "latest",
+    "zod": "latest"
+  }
+}
